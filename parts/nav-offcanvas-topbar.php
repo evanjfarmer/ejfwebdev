@@ -2,7 +2,7 @@
 	 and a topbar for medium-up -->
 
 <div class="top-bar" id="top-bar-menu">
-	<a href="/"><img src="http://www.evanjfarmer.com/wp-content/uploads/2016/09/navicon.png"></a>
+	<a href="/"><img src="/wp-content/uploads/2016/09/navicon.png"></a>
 	<div class="top-bar-left float-left">
 		<ul class="menu">
 			<li><a href="<?php echo home_url(); ?>"></a></li>
